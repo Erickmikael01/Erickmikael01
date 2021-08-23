@@ -1,16 +1,16 @@
-### Hi there 👋
+### bem vindo ao meu mundo visual 
+### um pouco sobre mim:
+ola me chamo erick mikael de aquino, atualmente estudo na escola eep maria celia pinheiro falcão.estou cursado o curso de informática.tenho 17 anos .
 
-<!--
-**Erickmikael01/Erickmikael01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### o que gosto de fazer:
+eu gosto de jogos ,futebol ,e outros jogos .gosto de fazer minhas atividades em dia e de estuda um pouco de cada materia .gosto de sair mas meus amigos ,pra jogo , festas e etc.
+ 
+ ### esporte favoritos:
+1.futebol
+2.volei 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
